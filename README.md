@@ -14,13 +14,12 @@ Um eine rechtlich unbedenkliche Nutzung der Tools zu ermöglichen, stehen die To
 Über Rückmeldungen zu den Tools, Probleme, Weiterentwicklungswünsche, … freuen wir uns sehr und bitten dafür um die Nutzung der Kontaktdaten. Sollte Sie an einer Nutzung der Tools interessiert sein, die durch die NC-Option der Creatice-Commons-Lizenz erschwert wird, so können Sie sich ebenfalls mit uns in Verbindung setzen.
 
 Projekt EDA-EL: Elementare Datenanalyse mit Excel und LibreOffice
-URL: http://eda-el.dzlm.de
-GitHub: https://github.com/wassong/EDA-EL
-
-Wir sind interessiert an Kooperationen (Universität, Schule, Fortbildung).
-Kontakt: wassong@math.upb.de 
+* URL: http://eda-el.dzlm.de
+* GitHub: https://github.com/wassong/EDA-EL
+* Kontakt: wassong@math.upb.de 
 
 Literatur:
-Biehler, R. (1997). Software for Learning and for Doing Statistics. International Statistical Review, 65(2), 167–189.<br>
-Biehler, R., Kuzle, A., Oesterhaus, J., & Wassong, T. (2013). Stochastikfortbildner fortbilden: ein projektorientiertes Konzept zur Multiplikatorenqualifikation. In G. Greefrath, F. Käpnick, & M. Stein (Eds.), Beiträge zum Mathematikunterricht 2013 (pp. 148–151). Münster: Verlag für wissenschaftliche Texte und Medien. Retrieved from http://www.mathematik.uni-dortmund.de/ieem/bzmu2013/Einzelvortraege/BzMU13-BiehlerRolf2.pdf<br>
-Loest, R. (2013). Daten mit interaktiven Excel-Arbeitsblättern analysieren - Entwicklung einer multimedialen Lernumgebung für Lehrkräfte der Sekundarstufe I. Universität Paderborn.
+
+* Biehler, R. (1997). Software for Learning and for Doing Statistics. International Statistical Review, 65(2), 167–189.
+* Biehler, R., Kuzle, A., Oesterhaus, J., & Wassong, T. (2013). Stochastikfortbildner fortbilden: ein projektorientiertes Konzept zur Multiplikatorenqualifikation. In G. Greefrath, F. Käpnick, & M. Stein (Eds.), Beiträge zum Mathematikunterricht 2013 (pp. 148–151). Münster: Verlag für wissenschaftliche Texte und Medien. Retrieved from http://www.mathematik.uni-dortmund.de/ieem/bzmu2013/Einzelvortraege/BzMU13-BiehlerRolf2.pdf
+* Loest, R. (2013). Daten mit interaktiven Excel-Arbeitsblättern analysieren - Entwicklung einer multimedialen Lernumgebung für Lehrkräfte der Sekundarstufe I. Universität Paderborn.
